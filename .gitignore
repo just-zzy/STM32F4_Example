@@ -1,0 +1,7 @@
+/srcInsight      #仅仅忽略项目根目录下的source_insight文件，不包括它的子文件
+srcInsight/      #忽略 source_insight/ 目录下的所有文件
+srcInsight
+*.[oa]      #忽略*.o和*.a文件
+/Objects
+/Listings
+/DebugConfig
